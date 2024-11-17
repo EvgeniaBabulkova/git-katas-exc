@@ -6,7 +6,7 @@ maintainer: JKrag
 
 ## Completed Git Exercises
 
-This repository includes the following Git exercises:
+In this repository, I had worked on the following exercises:
 
 -   **Basic Cherry-Pick** (`basic-cherry-pick/exercise/`): Used `git cherry-pick` for specific commits.
 -   **Basic Stashing** (`basic-stashing/exercise/`): Applied `git stash` to save changes.
