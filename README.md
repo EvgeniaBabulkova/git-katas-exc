@@ -1,7 +1,20 @@
 ---
 maintainer: JKrag
 ---
+
 # Git Katas
+
+## Completed Git Exercises
+
+This repository includes the following Git exercises:
+
+-   **Basic Cherry-Pick** (`basic-cherry-pick/exercise/`): Used `git cherry-pick` for specific commits.
+-   **Basic Stashing** (`basic-stashing/exercise/`): Applied `git stash` to save changes.
+-   **Basic Revert** (`basic-revert/exercise/`): Reverted changes with `git revert`.
+-   **Squashing Commits** (`squashing/exercise/`): Squashed commits via `git rebase -i`.
+-   **Rebase Branch** (`rebase-branch/exercise/`): Rebasing feature branch onto master.
+
+Exercises follow a Trunk-Based Development approach.
 
 ## Quick Start
 
@@ -13,10 +26,10 @@ maintainer: JKrag
 
 ![Quick Start](/images/quickstart.gif)
 
-- Clone this repository
-- Go into the folder you want to solve an exercise in
-- Run the `setup.sh` script
-- Consult the README.md in that folder to get a description of the exercise
+-   Clone this repository
+-   Go into the folder you want to solve an exercise in
+-   Run the `setup.sh` script
+-   Consult the README.md in that folder to get a description of the exercise
 
 ## Purpose of Git Katas
 
@@ -38,22 +51,22 @@ If you are coming to this repository for some basic Git knowledge, we recommend 
 This is the order that Jan Krag at Praqma teaches Git and might change over time. There are more exercises than this, but these should take you through
 everything you need to be able to use Git effectively in your day to day life.
 
-- [Basic Commits](./basic-commits/README.md)
-- [Basic Staging](./basic-staging/README.md)
-- [Investigation](./investigation/README.md)
-- [Basic Branching](./basic-branching/README.md)
-- [Fast Forward Merge](./ff-merge/README.md)
-- [3 way Merge](./3-way-merge/README.md)
-- [Merge Mergesort](./merge-mergesort/README.md)
-- [Rebase Branch](./rebase-branch/README.md)
-- [Basic Revert](./basic-revert/README.md)
-- [Reset](./reset/README.md)
-- [Basic Cleaning](./basic-cleaning/README.md)
-- [Amend](./amend/README.md)
-- [Reorder the History](./reorder-the-history/README.md)
-- [Advanced Rebase Interactive](./advanced-rebase-interactive/README.md)
-- [Rebase using autosquash](./rebase-interactive-autosquash/README.md)
-- [Basic Stashing](./basic-stashing/README.md)
+-   [Basic Commits](./basic-commits/README.md)
+-   [Basic Staging](./basic-staging/README.md)
+-   [Investigation](./investigation/README.md)
+-   [Basic Branching](./basic-branching/README.md)
+-   [Fast Forward Merge](./ff-merge/README.md)
+-   [3 way Merge](./3-way-merge/README.md)
+-   [Merge Mergesort](./merge-mergesort/README.md)
+-   [Rebase Branch](./rebase-branch/README.md)
+-   [Basic Revert](./basic-revert/README.md)
+-   [Reset](./reset/README.md)
+-   [Basic Cleaning](./basic-cleaning/README.md)
+-   [Amend](./amend/README.md)
+-   [Reorder the History](./reorder-the-history/README.md)
+-   [Advanced Rebase Interactive](./advanced-rebase-interactive/README.md)
+-   [Rebase using autosquash](./rebase-interactive-autosquash/README.md)
+-   [Basic Stashing](./basic-stashing/README.md)
 
 See [Overview.md](Overview.md) for a more complete list and suggested order.
 
